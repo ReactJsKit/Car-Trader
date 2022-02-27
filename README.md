@@ -20,6 +20,7 @@
 
 ### Steps to run the App.
 
-### 1. ``` npm install ```
-### 2. ``` npm run dev ```
-### 3. ``` Then copy this link into the browser: ``` http://localhost:3000
+### 1. ``` Download the App ```
+### 2. ``` npm install ```
+### 3. ``` npm run dev ```
+### 4. ``` Then copy this link into the browser: ``` http://localhost:3000
