@@ -17,3 +17,9 @@
 <div>
   <img src="screenshots/particularCar.png">
   </div>
+
+### Steps to run the App.
+
+### 1. ``` npm install ```
+### 2. ``` npm run dev ```
+### 3. ``` Then copy this link into the browser: ``` <a href="http://localhost:3000">localhost:3000</a>
