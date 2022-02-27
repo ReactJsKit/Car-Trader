@@ -22,4 +22,4 @@
 
 ### 1. ``` npm install ```
 ### 2. ``` npm run dev ```
-### 3. ``` Then copy this link into the browser: ``` <a href="http://localhost:3000">localhost:3000</a>
+### 3. ``` Then copy this link into the browser: ``` http://localhost:3000
